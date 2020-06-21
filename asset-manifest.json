@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/neuralnetgenerator/static/js/main.b8fe372b.chunk.js",
+    "main.js.map": "/neuralnetgenerator/static/js/main.b8fe372b.chunk.js.map",
+    "runtime-main.js": "/neuralnetgenerator/static/js/runtime-main.75d7580b.js",
+    "runtime-main.js.map": "/neuralnetgenerator/static/js/runtime-main.75d7580b.js.map",
+    "static/js/2.d5bd805e.chunk.js": "/neuralnetgenerator/static/js/2.d5bd805e.chunk.js",
+    "static/js/2.d5bd805e.chunk.js.map": "/neuralnetgenerator/static/js/2.d5bd805e.chunk.js.map",
+    "index.html": "/neuralnetgenerator/index.html",
+    "precache-manifest.bca4b0fd1d26f7c6335e2056f182af49.js": "/neuralnetgenerator/precache-manifest.bca4b0fd1d26f7c6335e2056f182af49.js",
+    "service-worker.js": "/neuralnetgenerator/service-worker.js",
+    "static/js/2.d5bd805e.chunk.js.LICENSE.txt": "/neuralnetgenerator/static/js/2.d5bd805e.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/neuralnetgenerator/static/media/background.27d85f5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d7580b.js",
+    "static/js/2.d5bd805e.chunk.js",
+    "static/js/main.b8fe372b.chunk.js"
+  ]
+}
