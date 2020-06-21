@@ -1,5 +1,5 @@
 {
-  "homepage": "http://vinicius-david.github.io/neuralnetgenerator",
+  "homepage": "http://vinicius-david.github.io/NeuralNetGenerator",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
